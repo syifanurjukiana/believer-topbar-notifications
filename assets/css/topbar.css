@@ -1,0 +1,29 @@
+.btn-topbar {
+  position: sticky;
+  top: 0;
+  z-index: 9999;
+  background: var(--btn-bg, #fff);
+  color: var(--btn-text, #000);
+  width: 100%;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+}
+.btn-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 10px 16px;
+}
+.btn-text {
+  font: 500 14px/1.5 system-ui, -apple-system, Segoe UI, Roboto, Inter, Arial,
+    sans-serif;
+  text-align: center;
+}
+@media (min-width: 768px) {
+  .btn-text {
+    font-size: 15px;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .btn-topbar {
+    border-bottom-color: rgba(255, 255, 255, 0.12);
+  }
+}
