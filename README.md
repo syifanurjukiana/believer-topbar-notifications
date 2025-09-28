@@ -82,6 +82,17 @@ Schedule start/end time window
 
 Gutenberg block for previewing the topbar in editor
 
+## Screenshots
+### Frontend View
+
+![Frontend](https://vaibhawkumarparashar.in/wp-content/uploads/2025/09/screenshot-1.png)
+
+### Settings Section
+
+![Setting](https://vaibhawkumarparashar.in/wp-content/uploads/2025/09/screenshot-2.png)
+
+
+
 ## Changelog
 1.0.0 — Initial release
 
